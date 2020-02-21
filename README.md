@@ -7,10 +7,10 @@ All the variables have been given some relatable names in accordance with the pr
 
 # Reading input and generating output
 For reading the input files and generating the corresponding output files, just redirect the input and output files using the command below:
-'''
+```
 
 $python hashcode.py < input_file.txt > output_file.txt
-'''
+```
 
 **Note: You can change the names of these input files accordingly. This is merely a sample command.
-Also, make sure you're working in the right directory.
+Also, make sure you're working in the right directory.**
