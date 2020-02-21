@@ -12,5 +12,4 @@ For reading the input files and generating the corresponding output files, just 
 $python hashcode.py < input_file.txt > output_file.txt
 ```
 
-**Note: You can change the names of these input files accordingly. This is merely a sample command.
-Also, make sure you're working in the right directory.**
+**Note: You can change the names of these i/o files accordingly. This is merely a sample command. Also, make sure you're working in the right directory.**
